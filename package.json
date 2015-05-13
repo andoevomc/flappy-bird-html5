@@ -1,0 +1,9 @@
+{
+  "name": "html5-flappy-bird",
+  "version": "0.0.1",
+  "description": "Flappy Chym Demo :)",
+  
+  "dependencies": {
+    "express": "4.10.2",
+  }
+}
