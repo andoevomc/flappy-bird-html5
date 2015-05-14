@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Zorque";
-  src: url('../../assets/font/zorque.ttf') format("truetype");
+  src: url('../font/zorque.ttf') format("truetype");
 }
 
 .game{
